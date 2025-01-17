@@ -1,0 +1,95 @@
+
+* {
+	font-family: 'SingleDayRegular';
+	font-weight: normal;
+	font-style: normal;
+	text-align: center;
+}
+body {
+	font-family: 'SingleDayRegular';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 100%;
+	background-image: url("img/cherry blossom.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0 auto;
+
+h1 {
+	font-family: 'SingleDayRegular';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 300%;
+}
+#nav {
+	font-family: 'SingleDayRegular';
+	font-size: 130%;
+	font-weight: bolder;
+	font-style: normal;
+	background-color: #98fb98;
+}
+
+.column12 {
+	font-family: 'SingleDayRegular';
+	font-size: 120%;
+	font-weight: bolder;
+	font-style: normal;
+	background-color:#dda0dd;
+}
+.column1 {
+	font-family: 'SingleDayRegular';
+	font-size: 120%;
+	font-weight: bolder;
+	font-style: normal;
+	background-color: #dda0dd;
+}
+
+.column2 {
+	font-family: 'SingleDayRegular';
+	font-size: 120%;
+	font-weight: bolder;
+	font-style: normal;
+	background-color: #dda0dd;
+}
+
+.column3 {
+	font-family: 'SingleDayRegular';
+	font-size: 120%;
+	font-weight: bolder;
+	font-style: normal;
+	background-color: #dda0dd;
+}
+
+.column4 {
+	font-family: 'SingleDayRegular';
+	font-size: 120%;
+	font-weight: bolder;
+	font-style: normal;
+	background-color: #dda0dd;
+}
+.foo{
+	font-family: 'SingleDayRegular';
+	font-size: 120%;
+	font-weight: bolder;
+	font-style: normal;
+	background-color:#98fb98;
+
+}
+li1 {
+	display: inline;
+	padding: 0.5em;
+}
+#a,
+#b,
+#c,
+#d {
+	font-family: 'SingleDayRegular';
+	font-size: 120%;
+	font-weight: bolder;
+	font-style: normal;
+	background-color: #dda0dd;
+
+}
+
+   
